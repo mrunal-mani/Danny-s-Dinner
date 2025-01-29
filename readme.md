@@ -1,4 +1,4 @@
-# Danny's Diner SQL Case Study
+# Danny's Dinner - PowerBI SQL
 
 ## Overview
 Danny's Diner is a fictional restaurant where customers order different menu items. This SQL case study analyzes customer spending habits, menu popularity, and membership benefits using SQL queries. The dataset consists of three tables: `sales`, `menu`, and `members`.
